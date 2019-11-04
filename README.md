@@ -1,4 +1,4 @@
-# 1stProject_Git
+# 1stProject
 autoplus
 
 1. AUTOMIS에 입력된 반납차량 정보를 가져와 DB에 구성
